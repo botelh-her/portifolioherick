@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.eu{
+    width: 1349px;
+}
+H1{
+    color: rgb(0, 0, 0);
+    font-family: 'Cutive Mono', monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 50px;
+    margin-left: 100px;
+    margin-top: 50px;
+    background-color: #FFFFFF;
+}
+H2{
+    color: rgb(0, 0, 0);
+    font-family: 'Cutive Mono', monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 50px;
+    margin-left: 250px;
+    background-color: #FFFFFF;
+}
+h3{
+    color: aliceblue;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 74px;
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+p{
+    color: aliceblue;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 30px;
+    margin-left: 50px;
+}
+article{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+    padding: 20px;
+}
+div{
+    color: #FFFFFF;
+}
+h4{
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 74px;
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+    color: black;
+    background-color: #FFFFFF;
+}
+.SOBRE{
+    color: black;
+    background-color:#FFFFFF;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 30px;
+    margin-left: 50px;
+}
+.SOBREMIM{
+    background-color: #FFFFFF;
+}
+section{
+    display: flex;
+    
+    margin-top: 150px;
+    padding: 20px;
+    background-color: #FFFFFF;
+    margin-left: 0;
+}
+.EMPRESAS{
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 12px;
+    display: flex;
+    
+    margin-left: 50px;
+}
+h6{
+    color: aliceblue;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 74px;
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-bottom: 25px;
+}
+.ONDE{
+    background-color: black;
+}
+.APPLE{
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    color: aliceblue;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    margin-left: 125px;
+    
+}
+.apple{
+    width: 500px;
+    height: 500px;
+}
+.PRINCIPAL{
+    background-color: #FFFFFF;
+}
+.RODAPE{
+    background-color: #FFFFFF;
+}
+.RODA{
+    color: black;
+    background-color: #FFFFFF;
+    font-family: 'Hina Mincho', serif;
+    font-size: 18px;
+}
